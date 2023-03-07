@@ -58,7 +58,7 @@ class AirDropConfig:
         computer_name=None,
         computer_model=None,
         server_port=8771,
-        airdrop_dir="~/.opendrop",
+        airdrop_dir="./.opendrop",
         service_id=None,
         email=None,
         phone=None,
